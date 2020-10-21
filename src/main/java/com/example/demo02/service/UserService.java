@@ -7,7 +7,6 @@ import java.util.List;
 
 /**
  * UserService
- *
  */
 public interface UserService {
 
